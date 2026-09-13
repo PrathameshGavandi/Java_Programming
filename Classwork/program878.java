@@ -52,19 +52,3 @@ class program878
     }
 }
 
-
-
-
-// int iMax = 0;
-//         char cMax = '\0';
-
-//         for(char ch : hobj.keySet())
-//         {
-//             if(hobj.get(ch) > iMax)
-//             {
-//                 iMax = hobj.get(ch);
-//                 cMax = ch;
-//             }
-//         }
-
-//         System.out.println("Maxiumum times occured character is : "+cMax+" with frequency : "+iMax);
